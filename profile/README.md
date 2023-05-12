@@ -1,12 +1,25 @@
-## Hi there 👋
+# PEF project
 
-<!--
 
-**Here are some ideas to get you started:**
+# Description
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Important Dates
+
+- 1 o 2 de Junio **Presentacion AnteProyecto**
+
+# Important Links
+
+- [Udem's Drive Repo](https://drive.google.com/drive/u/0/folders/1p-z_vTMwVT-40VVu84CchgEmm6W18Efg)
+- [Anteproyecto](https://docs.google.com/presentation/d/1EB_m5NqkTwsZfnWbyNZnukvMEa-kbv6P7CcfE2SkB0U/edit#slide=id.p)
+
+# PEF
+
+- Eduardo Gomez
+- Arturo Orozco
+
+# Advisors
+
+- Dr Andres Hernandez
+
+
+
